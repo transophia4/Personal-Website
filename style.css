@@ -1,0 +1,22 @@
+h1 {
+    font-size: 5em;
+
+}
+
+#profile_pic {
+    height: 400px;
+}
+
+body {
+    background-color:blanchedalmond;
+    color: burlywood;
+}
+
+a {
+    color:brown;
+    text-decoration: none;
+}
+
+.social-icon {
+    height:50px
+}
