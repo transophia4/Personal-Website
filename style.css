@@ -8,8 +8,9 @@ h1 {
 }
 
 body {
-    background-color:blanchedalmond;
-    color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+    background-color:white;
+    color: black;
 }
 
 a {
